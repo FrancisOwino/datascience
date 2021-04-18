@@ -31,6 +31,9 @@
 
 .content-right img {
     width: 350px;
+    border: 1px solid #ccc;
+    border-radius: 50%
+
 }
 
 .content {
