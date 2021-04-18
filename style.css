@@ -27,7 +27,7 @@
     margin-right: 50px;
     font-size: 20px;
     font-weight: bold;
-    text-transform: capitalize;
+    text-transform: uppercase; 
 }
 
 .content-right img {
