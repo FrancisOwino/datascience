@@ -80,15 +80,15 @@
 #btn1 {
     color: #ff7846;
 }
-@media(max-width:80%){
+@media(max-width:650px){
     
-    body{width:100%;
-    font-size:15px}
+    body{width:100%;}
+    font-size{:15px}
     .btn-box{
         width:100%;}
     .hero{
         width:100%;
-        font-size:12px
+        font-size:12px;
     }
     
     .content-right img{
