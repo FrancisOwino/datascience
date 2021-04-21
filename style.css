@@ -82,13 +82,14 @@
 }
 @media screen  and (max-width:80%){
     
+    body{width:100%;}
     .btn-box{
         width:100%;}
     .hero{
         width:100%;
     }
     
-    content-right img{
+    .content-right img{
         width:100%
     
 }
