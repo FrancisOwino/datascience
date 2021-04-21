@@ -80,7 +80,7 @@
 #btn1 {
     color: #ff7846;
 }
-@media screen  and (max-width:320px){
+@media screen  and (max-width:654px){
     .content-left, .content-right{
         width:100%}
     .btn-box{
