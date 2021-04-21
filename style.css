@@ -80,10 +80,11 @@
 #btn1 {
     color: #ff7846;
 }
+
 @media(max-width:650px){
     
    .content-left p {
-       font-size:10px;}
+       font-size:4px;}
     .content-left img{
         width:200px;}
     
