@@ -86,7 +86,9 @@
    .content-left p {
        font-size:10px;}
     .content-left img{
-        width:100px;
+        width:50ppx;
+        overflow:hidden;
+        align-items: center}
     display:block;}
     .btn-box{
         display:block;}
