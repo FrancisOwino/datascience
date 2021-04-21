@@ -86,7 +86,7 @@
    .content-left p {
        font-size:10px;}
     .content-right img{
-        width:50px;
+        width:100%;
         overflow:hidden;
         align-items: center}
     display:block;}
