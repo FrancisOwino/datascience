@@ -80,3 +80,6 @@
 #btn1 {
     color: #ff7846;
 }
+@media screen only and (max-width:500px){
+    .hero{
+        width:100%
