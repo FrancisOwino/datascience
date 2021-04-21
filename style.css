@@ -32,10 +32,12 @@
 
 .content-right img {
     width: 350px;
-    border: 1px solid #ccc;
-    border-radius: 50%
+    
 
 }
+.content-right img:nth-child(2){
+    border: 1px solid #ccc;
+    border-radius: 50%}
 
 .content {
     display: flex;
