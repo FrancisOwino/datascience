@@ -84,6 +84,7 @@
     .content-left, .content-right{
         width:100%}
     .btn-box{
-        width:100%
+        width:100%;
+        display: none;
     
 }
