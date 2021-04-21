@@ -86,14 +86,14 @@
 @media(max-width:1500px){
     
    .content-left p {
-       font-size:10px;}
+          font-size:10px;}
     .content-right img{
-        width:50%;
+        width:100%;
         overflow:hidden;
         align-items: center}
     display:block;}
     .btn-box{
-        width:100%;
+        width:50%;
         padding:2px;
         font-size:8px;
         }
