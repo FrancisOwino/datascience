@@ -82,18 +82,7 @@
 }
 @media(max-width:650px){
     
-    body{width:100%;}
-    font-size{:15px}
-    .btn-box{
-        width:100%;}
-    .hero{
-        width:100%;
-        font-size:12px;
-    }
-    
-    .content-right img{
-        width:100%;}
-    .content-right h1 p{
-        font-size:12px;}
+   .content-left p {
+       font-size:10px;}
     
 }
