@@ -92,8 +92,8 @@
         overflow:hidden;
         align-items: center}
     display:block;}
-    .btn-box{
-        width:50%;
+    .btn-box button{
+        width:100%;
         padding:2px;
         font-size:8px;
         }
