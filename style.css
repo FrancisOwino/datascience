@@ -92,7 +92,7 @@
           font-size:10px;}
     .content-right img{
         width:100%;
-        overflow:hidden;
+/*         overflow:hidden; */
         align-items: center}
     display:block;}
     .btn-box button{
