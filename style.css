@@ -33,7 +33,10 @@
 .content-right img {
     width: 350px;
     
-
+.eve{
+    border: 1px solid green;
+    border-radius:50%;
+    
 }
 .content-right img:nth-child(2){
     border: 1px solid #ccc;
