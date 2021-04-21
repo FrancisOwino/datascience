@@ -37,7 +37,7 @@
 }
 .content-right img:nth-child(2){
     border: 1px solid #ccc;
-    border-radius: 50%}
+    border-radius: 50%;}
 
 .content {
     display: flex;
