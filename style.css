@@ -92,6 +92,8 @@
     }
     
     .content-right img{
-        width:100%
+        width:100%;}
+    .content-right h1 p{
+        font-size:12px;}
     
 }
